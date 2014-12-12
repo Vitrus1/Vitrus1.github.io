@@ -1,0 +1,19 @@
+h1 {
+    font-size: 28px;
+    color: red;
+	font-style: sans-serif;
+	background-color:beige;
+}
+body {
+    font-size: 18px;
+    color: black;
+	background-color:beige;
+}
+p {
+	color:black;
+	background-color:beige;
+}
+a {
+	color:blue;
+	background-color:beige;
+}
